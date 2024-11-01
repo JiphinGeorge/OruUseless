@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #47b4f8;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+input[type="range"] {
+    margin: 10px 0;
+}

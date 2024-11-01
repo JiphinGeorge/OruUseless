@@ -1,0 +1,40 @@
+/* style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    padding: 15px 30px;
+    font-size: 1.5em;
+    background-color: #0936a0;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0f1a6c;
+  }
+  
+  #fact-display {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .hidden {
+    visibility: hidden;
+  }
+  
