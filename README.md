@@ -36,25 +36,27 @@ For Software:
  Project Documentation
 For Software:
 
-Screenshots (Add at least 3)![Screenshot 2024-11-02 052634](https://github.com/user-attachments/assets/631781f0-f66f-4b8b-8080-09700625ad2a)
+Screenshots ![Screenshot 2024-11-02 052634](https://github.com/user-attachments/assets/631781f0-f66f-4b8b-8080-09700625ad2a)
 
-![Main Home Page](Add screenshot 1 here with proper name)
+![Main Home Page]
 This is the main page where users can access each "useless" web page.
 
-![Never-Ending Progress Bar](Add screenshot 2 here with proper name)
-Watch a progress bar that, well, never quite makes it to the end.
+![Screenshot 2024-11-02 052651](https://github.com/user-attachments/assets/476a9c8a-8e39-44a9-8c4b-6187a0a3b6fa)
 
-![Outrageous Horoscope](Add screenshot 3 here with proper name)
+![Never-Ending Progress Bar]
+Watch a progress bar that, well, never quite makes it to the end.
+![Screenshot 2024-11-02 052710](https://github.com/user-attachments/assets/4b158067-da6f-4f7b-bc4f-73962527f070)
+
+![Outrageous Horoscope]
 Get a wild and exaggerated prediction of your future!
 
- Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Illustrates the simple architecture of links connecting to individual web pages.
+
+ Project Demo
+ Video
 
 
-### Project Demo
-#### Video
-[Add your demo video link here]
+https://github.com/user-attachments/assets/11acbeb2-81e9-4d4b-bdcd-a11318bc3a42
+
 Watch the demo of each feature in action, showcasing the most "useless" functionality.
 
 Team Contributions
