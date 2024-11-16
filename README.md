@@ -2,7 +2,7 @@ USELESS WEBPAGES
 
 Basic Details
   Team Name: GLITCH
-
+Hosted URL - https://jiphingeorge.github.io/OruUseless/
 Team Members
 - Team Lead: Jiphin George - St. Joseph's College, Devagiri
 - Member 2: Ankith Pratheesh Menon - St. Joseph's College, Devagiri
